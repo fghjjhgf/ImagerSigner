@@ -1,0 +1,5 @@
+/Win32/
+/ipch/
+/ImageSigner/Debug/
+/ImageSigner/Release/
+*.sdf
